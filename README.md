@@ -1,0 +1,1 @@
+Caso di studio di interazione uomo macchina AA 19/20
