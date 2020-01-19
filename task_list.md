@@ -1,6 +1,5 @@
-1) Recapiti segretario generale
-2) Scaricare modulo per pass ztl
-3) Scaricare un bando di concorso
-4) Scaricare regolamento IMU per l'ultimo anno disponibile
-5) Trovare informazioni sulla festa patronale
-6) Trovare gli orari della biblioteca
+1) Recapiti segretario generale                                    5 minuti
+2) Scaricare modulo per pass ztl                                   7 minuti e 30 secondi   
+3) Scaricare regolamento IMU per l'ultimo anno disponibile         7 minuti e 30 secondi
+4) Trovare informazioni sulla festa patronale                      10 minuti
+5) Trovare gli orari della biblioteca                              7 minuti e 30 secondi 
